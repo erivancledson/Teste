@@ -1,9 +1,9 @@
 # Teste
-Prova para programador Java Senior.
+Prova para programador Java Sênior.
 
-# Importar no banco de dados mysql o arquivo teste.sql
+1. Importar no banco de dados mysql o arquivo teste.sql
 
-# Executar a aplicação
+2. Executar a aplicação
 
-# Link para acesso do Swagger da aplicação:
-http://localhost:8080/swagger-ui.html
+3.Acessar o Swagger da aplicação através deste link: http://localhost:8080/swagger-ui.html
+
