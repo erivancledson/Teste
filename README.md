@@ -5,6 +5,7 @@ Prova para programador Java Sênior.
 
 2. No arquivo application.properties informar o usuario e senha do mysql, ele se encontra com essa configuração:
 spring.datasource.username=root
+
 spring.datasource.password=
 
 3. Executar a aplicação
